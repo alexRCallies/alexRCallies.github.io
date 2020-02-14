@@ -1,0 +1,49 @@
+.w3-row-padding img {margin-bottom: 12px}
+    .w3-sidebar{width: 120px; background: #222;}
+    #main {margin-left: 120px}
+    @media only screen and (max-width: 600px) {#main {margin-left: 0}}
+  .carousel-inner img {
+      width: 100%;
+      height: 500px;
+      border: solid gold;
+  }
+  .carousel-caption{
+  text-align: center;
+  }
+.carousel-caption h1{
+  background-color: black;
+  border: solid gold;
+  text-align: center;
+  font-size: xx-large;
+  font-family: fantasy;
+  color: silver;
+}
+header{
+  background-image: url("./images/digitalSun2.gif");
+background-size: 750px 200px;
+}
+
+header h1{
+  font-family: fantasy;
+  color: gold;
+}
+projects div p{
+color: gold;
+
+}
+.card{
+    height: 335px;
+    
+    background-color: silver;
+    border: solid gold;
+    
+}
+.card p, h4{
+    color: black;
+}
+.card a{
+    background-color: black;
+    color: white;
+}
+
+
